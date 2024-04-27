@@ -4,17 +4,13 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kernel by ArcticAquila
-do.devicecheck=0
+kernel.string=A03s Kernel by ArcticAquila
+do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
-device.name4=tuna
-device.name5=
+device.name1=a03s
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
